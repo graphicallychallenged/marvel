@@ -1,7 +1,7 @@
 import 'whatwg-fetch'
 import md5 from 'md5'
-const PUBLIC_KEY =  // {YOUR PUBLIC KEY HERE}
-const PRIVATE_KEY = // {YOUR PRIVATE KEY HERE}
+const PUBLIC_KEY =  '23524fcf9cf3102cc817dd4cfb20db7a'
+const PRIVATE_KEY = '6b98af83fac066b2574eb91687abb5dc1e45da5e'
 
 /**
  * Retrieve characters from Marvel API
